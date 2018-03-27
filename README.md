@@ -1,4 +1,4 @@
-# bustrack
+# BUSTRACK
 Aplicación que tiene como objetivo mejorar la experiencia de los usuarios al momento de realizar un viaje en bus.
 +![contenido](https://user-images.githubusercontent.com/32302490/37948156-3dcbd96a-3165-11e8-9e7d-2752c23f0745.png)
 +![contenido1](https://user-images.githubusercontent.com/32302490/37948163-4367997c-3165-11e8-830b-76d6721a0423.png)
